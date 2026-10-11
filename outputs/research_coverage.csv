@@ -1,0 +1,21 @@
+lender_id,lender_name,lender_type,regulated_entity_name,product_status,research_status,total_rules,sources,last_source_accessed,verified_official,verified_secondary,estimated,not_published,not_researched,unverified,stale
+hdfc_bank,HDFC Bank,bank,HDFC Bank,verified_active,researched,11,4,2026-10-11,11,0,0,0,0,0,0
+icici_bank,ICICI Bank,bank,ICICI Bank,verified_active,researched,11,5,2026-10-11,11,0,0,0,0,0,0
+sbi,State Bank of India (SBI),bank,State Bank of India (SBI),verified_active,researched,11,3,2026-10-11,10,0,0,1,0,0,0
+axis_bank,Axis Bank,bank,Axis Bank,verified_active,researched,9,5,2026-10-11,9,0,0,0,0,0,0
+kotak_mahindra_bank,Kotak Mahindra Bank,bank,Kotak Mahindra Bank,verified_active,researched,11,4,2026-10-11,11,0,0,0,0,0,0
+idfc_first,IDFC FIRST Bank,bank,IDFC FIRST Bank Limited,verified_active,researched,9,5,2026-10-11,9,0,0,0,0,0,0
+indusind,IndusInd Bank,bank,IndusInd Bank Limited,verified_active,researched,14,5,2026-10-11,14,0,0,0,0,0,0
+yes_bank,YES BANK,bank,YES Bank Limited,unverified,researched,10,6,2026-10-11,1,9,0,0,0,0,0
+federal_bank,Federal Bank,bank,The Federal Bank Limited,verified_active,researched,9,6,2026-10-11,9,0,0,0,0,0,0
+bank_of_baroda,Bank of Baroda,bank,Bank of Baroda,verified_active,researched,10,5,2026-10-11,10,0,0,0,0,0,0
+pnb,Punjab National Bank,bank,Punjab National Bank,verified_active,researched,11,3,2026-10-11,11,0,0,0,0,0,0
+canara_bank,Canara Bank,bank,Canara Bank,verified_active,researched,5,1,2026-10-11,5,0,0,0,0,0,0
+bajaj_finance,Bajaj Finance,nbfc,Bajaj Finance Limited,verified_active,researched,7,1,2026-10-11,7,0,0,0,0,0,0
+tata_capital,Tata Capital,nbfc,Tata Capital Limited,verified_active,researched,10,3,2026-10-11,10,0,0,0,0,0,0
+aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),nbfc,Aditya Birla Finance Limited,verified_active,researched,7,3,2026-10-11,7,0,0,0,0,0,0
+lnt_finance,L&T Finance,nbfc,L&T Finance Limited,verified_active,complete,14,8,2026-10-11,11,0,3,0,0,0,0
+poonawalla_fincorp,Poonawalla Fincorp,nbfc,Poonawalla Fincorp Limited,verified_active,complete,11,4,2026-10-11,10,0,0,1,0,0,0
+smfg_india_credit,SMFG India Credit,nbfc,SMFG India Credit Company Limited (formerly Fullerton India Credit Company Limited),verified_active,complete,13,3,2026-10-11,12,0,0,1,0,0,0
+navi,Navi,nbfc,Navi Finserv Limited,verified_active,complete,12,5,2026-10-11,3,5,4,0,0,0,0
+moneyview,Moneyview,digital_platform,Whizdm Finance Private Limited (NBFC lending partner); platform operated by Moneyview Limited,verified_active,complete,11,4,2026-10-11,7,0,1,3,0,0,0

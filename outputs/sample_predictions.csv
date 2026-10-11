@@ -1,0 +1,281 @@
+applicant_id,lender_id,lender_name,product_name,decision,applicant_outcome,evaluated_mandatory_count,total_mandatory_count,n_failed_gates,n_unevaluable_mandatory,est_max_principal_inr,rate_min_pct,rate_max_pct,emi_min,emi_max,feasible,rank,score
+profile_001,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_001,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_001,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_001,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_001,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_001,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,6,6,0,0,985857.4689648767,9.99,20.0,20286.22501118347,24344.289875086455,True,1.0,1.0
+profile_001,indusind,IndusInd Bank,IndusInd Bank Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,1,0,,,,,,,,
+profile_001,yes_bank,YES BANK,YES BANK Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,0,0,968814.0386856903,10.85,21.0,20618.19083974199,24772.555972205777,True,6.0,0.9051
+profile_001,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,0,0,1003517.6103383634,11.75,18.99,20969.003875075516,23915.87327691015,True,9.0,0.8049
+profile_001,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,1030418.8715772665,10.15,17.5,20347.744609531503,23291.498886528643,True,4.0,0.9824
+profile_001,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,3,3,0,0,1158564.519399966,10.35,11.1,20424.799464745098,20715.289997340744,True,5.0,0.9604
+profile_001,canara_bank,Canara Bank,Canara Budget (Prime / Delight),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,5000000.0,,,,,True,10.0,0.775
+profile_001,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,826505.891013119,10.0,30.5,20290.06674779781,29037.905550293355,True,3.0,0.9989
+profile_001,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,0,0,1160960.7635059855,10.99,,20672.533262469955,20672.533262469955,True,7.0,0.8896
+profile_001,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,1160960.7635059855,10.99,,20672.533262469955,20672.533262469955,True,8.0,0.8896
+profile_001,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_001,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,1183068.8058901639,9.99,,20286.22501118347,20286.22501118347,True,2.0,1.0
+profile_001,smfg_india_credit,SMFG India Credit,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,0,0,833194.6112810932,12.5,30.0,21263.999113416838,28804.79503233749,True,11.0,0.7206
+profile_001,navi,Navi,Personal Loan / Cash Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_001,moneyview,Moneyview,Personal Loan (via digital lending platform),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,663333.8599435216,14.0,45.0,21861.18119603746,36180.875799169124,False,12.0,0.1
+profile_002,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_002,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_002,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_002,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_002,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_002,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,6,6,0,0,410773.94540203194,9.99,20.0,10143.112505591735,12172.144937543228,True,1.0,1.0
+profile_002,indusind,IndusInd Bank,IndusInd Bank Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,0,0,488308.89630909584,10.49,,10239.420247701237,10239.420247701237,True,5.0,0.945
+profile_002,yes_bank,YES BANK,YES BANK Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,0,0,403672.51611903764,10.85,21.0,10309.095419870995,12386.277986102888,True,6.0,0.9051
+profile_002,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,1,0,,,,,,,,
+profile_002,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,429341.1964905277,10.15,17.5,10173.872304765751,11645.749443264322,True,3.0,0.9824
+profile_002,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,3,3,0,0,482735.2164166526,10.35,11.1,10212.399732372549,10357.644998670372,True,4.0,0.9604
+profile_002,canara_bank,Canara Bank,Canara Budget (Prime / Delight),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,5000000.0,,,,,True,9.0,0.775
+profile_002,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,344377.45458879956,10.0,30.5,10145.033373898905,14518.952775146678,False,10.0,0.5489
+profile_002,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,0,0,483733.6514608272,10.99,,10336.266631234977,10336.266631234977,True,7.0,0.8896
+profile_002,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,483733.6514608272,10.99,,10336.266631234977,10336.266631234977,True,8.0,0.8896
+profile_002,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_002,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,492945.33578756824,9.99,,10143.112505591735,10143.112505591735,True,2.0,1.0
+profile_002,smfg_india_credit,SMFG India Credit,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,0,0,347164.42136712215,12.5,30.0,10631.999556708419,14402.397516168745,False,11.0,0.2706
+profile_002,navi,Navi,Personal Loan / Cash Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_002,moneyview,Moneyview,Personal Loan (via digital lending platform),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,276389.1083098007,14.0,45.0,10930.59059801873,18090.437899584562,False,12.0,0.1
+profile_003,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_003,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_003,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_003,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_003,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_003,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,6,6,1,0,,,,,,,,
+profile_003,indusind,IndusInd Bank,IndusInd Bank Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,0,0,500000.0,10.49,,16248.864201830553,16248.864201830553,True,4.0,0.7755
+profile_003,yes_bank,YES BANK,YES BANK Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,0,0,663568.8206450621,10.85,21.0,16333.864155465084,18837.533668095828,True,6.0,0.6132
+profile_003,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,1,0,,,,,,,,
+profile_003,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,696338.75874503,10.15,17.5,16168.82858851465,17951.03294627461,True,2.0,0.9283
+profile_003,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,3,3,0,0,762518.4070720525,10.35,11.1,16215.879861578715,16393.046887875116,True,3.0,0.8384
+profile_003,canara_bank,Canara Bank,Canara Budget (Prime / Delight),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,5000000.0,,,,,True,5.0,0.775
+profile_003,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,1,0,,,,,,,,
+profile_003,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,0,0,763732.3268589175,10.99,,16366.990842734222,16366.990842734222,True,7.0,0.55
+profile_003,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,763732.3268589175,10.99,,16366.990842734222,16366.990842734222,True,8.0,0.55
+profile_003,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_003,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,774893.6333726427,9.99,,16131.246227427457,16131.246227427457,True,1.0,1.0
+profile_003,smfg_india_credit,SMFG India Credit,Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,1,0,,,,,,,,
+profile_003,navi,Navi,Personal Loan / Cash Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,3,0,1,,,,,,,,
+profile_003,moneyview,Moneyview,Personal Loan (via digital lending platform),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,1,0,,,,,,,,
+profile_004,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_004,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_004,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_004,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_004,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_004,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,6,6,0,0,0.0,9.99,20.0,9678.747736456475,11149.075007922167,False,1.0,0.55
+profile_004,indusind,IndusInd Bank,IndusInd Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_004,yes_bank,YES BANK,YES BANK Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_004,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_004,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,5,0,1,,,,,,,,
+profile_004,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_004,canara_bank,Canara Bank,Canara Budget (Prime / Delight),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,2,0,1,,,,,,,,
+profile_004,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,0.0,10.0,30.5,9680.156158151272,12817.769912123847,False,3.0,0.5489
+profile_004,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_004,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,0.0,10.99,,9820.194505640535,9820.194505640535,False,4.0,0.4392
+profile_004,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_004,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,0.0,9.99,,9678.747736456475,9678.747736456475,False,2.0,0.55
+profile_004,smfg_india_credit,SMFG India Credit,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,0,0,0.0,12.5,30.0,10036.087673014901,12735.473023044806,False,5.0,0.2701
+profile_004,navi,Navi,Personal Loan / Cash Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_004,moneyview,Moneyview,Personal Loan (via digital lending platform),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,0.0,14.0,45.0,10253.288927407651,15321.181489817407,False,6.0,0.1
+profile_005,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_005,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_005,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_005,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_005,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_005,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,6,6,0,0,575083.5235628447,9.99,20.0,7607.334379193802,9129.108703157419,True,1.0,1.0
+profile_005,indusind,IndusInd Bank,IndusInd Bank Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,1,0,,,,,,,,
+profile_005,yes_bank,YES BANK,YES BANK Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,6,7,0,0,,,,,,,,
+profile_005,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,1,0,,,,,,,,
+profile_005,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,1,0,,,,,,,,
+profile_005,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,3,3,0,0,675829.3029833136,10.35,11.1,7659.299799279411,7768.233749002779,True,4.0,0.9604
+profile_005,canara_bank,Canara Bank,Canara Budget (Prime / Delight),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,5000000.0,,,,,True,6.0,0.775
+profile_005,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,482128.4364243194,10.0,30.5,7608.77503042418,10889.214581360005,True,3.0,0.9989
+profile_005,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,1,0,,,,,,,,
+profile_005,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,677227.112045158,10.99,,7752.199973426234,7752.199973426234,True,5.0,0.8896
+profile_005,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_005,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,690123.4701025956,9.99,,7607.334379193802,7607.334379193802,True,2.0,1.0
+profile_005,smfg_india_credit,SMFG India Credit,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,0,0,486030.189913971,12.5,30.0,7973.999667531314,10801.79813712656,True,7.0,0.7206
+profile_005,navi,Navi,Personal Loan / Cash Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_005,moneyview,Moneyview,Personal Loan (via digital lending platform),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,386944.7516337209,14.0,45.0,8197.942948514048,13567.82842468842,True,8.0,0.55
+profile_006,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_006,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_006,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_006,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_006,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_006,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,1415421.0233355968,9.99,20.0,14869.487246526502,18545.7186004903,True,1.0,1.0
+profile_006,indusind,IndusInd Bank,IndusInd Bank Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,6,2,1,,,,,,,,
+profile_006,yes_bank,YES BANK,YES BANK Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,1386149.456825691,10.85,21.0,15167.384081756898,18937.35186399958,True,5.0,0.9345
+profile_006,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_006,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,1492702.8488705673,10.15,17.5,14924.648240759243,17585.549608792997,True,4.0,0.9879
+profile_006,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,1,0,,,,,,,,
+profile_006,canara_bank,Canara Bank,Canara Budget (Prime / Delight),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_006,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,1148151.7734923135,10.0,30.5,14872.931297887833,22862.831035095493,True,3.0,0.9992
+profile_006,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,5,0,1,,,,,,,,
+profile_006,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,1725134.4387513928,10.99,,15216.205421647639,15216.205421647639,True,6.0,0.9238
+profile_006,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_006,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,1765360.1341318593,9.99,,14869.487246526502,14869.487246526502,True,2.0,1.0
+profile_006,smfg_india_credit,SMFG India Credit,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,0,0,1159074.6181896557,12.5,30.0,15748.556757791011,22647.377130041503,True,7.0,0.8067
+profile_006,navi,Navi,Personal Loan / Cash Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,3,3,0,0,1252485.3794156513,,26.0,20958.328481444605,20958.328481444605,True,8.0,0.625
+profile_006,moneyview,Moneyview,Personal Loan (via digital lending platform),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,3,4,0,1,,,,,,,,
+profile_007,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_007,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_007,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_007,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_007,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_007,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,6,6,1,0,,,,,,,,
+profile_007,indusind,IndusInd Bank,IndusInd Bank Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,1,2,,,,,,,,
+profile_007,yes_bank,YES BANK,YES BANK Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,7,0,2,,,,,,,,
+profile_007,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,1,2,,,,,,,,
+profile_007,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,5,1,1,,,,,,,,
+profile_007,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_007,canara_bank,Canara Bank,Canara Budget (Prime / Delight),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,2,0,1,,,,,,,,
+profile_007,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,1,0,,,,,,,,
+profile_007,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,1,2,,,,,,,,
+profile_007,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,1,0,,,,,,,,
+profile_007,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_007,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,1,0,,,,,,,,
+profile_007,smfg_india_credit,SMFG India Credit,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,0,0,353343.76601931173,12.5,30.0,6690.725115343267,8490.315348696537,True,1.0,0.775
+profile_007,navi,Navi,Personal Loan / Cash Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_007,moneyview,Moneyview,Personal Loan (via digital lending platform),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,1,0,,,,,,,,
+profile_008,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_008,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_008,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_008,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_008,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_008,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,6,6,0,0,431804.53776523814,9.99,20.0,87911.23638603518,92634.50589708032,False,1.0,0.55
+profile_008,indusind,IndusInd Bank,IndusInd Bank Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,1,2,,,,,,,,
+profile_008,yes_bank,YES BANK,YES BANK Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_008,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,1,2,,,,,,,,
+profile_008,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,5,0,1,,,,,,,,
+profile_008,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_008,canara_bank,Canara Bank,Canara Budget (Prime / Delight),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,2,0,1,,,,,,,,
+profile_008,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,409277.3526769868,10.0,30.5,87915.8872300099,97733.23575900162,False,3.0,0.5482
+profile_008,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,1,2,,,,,,,,
+profile_008,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,452606.4777021,10.99,,88376.99407900996,88376.99407900996,False,4.0,0.3711
+profile_008,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_008,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,455004.4072222153,9.99,,87911.23638603518,87911.23638603518,False,2.0,0.55
+profile_008,smfg_india_credit,SMFG India Credit,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,0,0,410310.5839275061,12.5,30.0,89082.8627105997,97487.12698833822,False,5.0,0.1
+profile_008,navi,Navi,Personal Loan / Cash Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_008,moneyview,Moneyview,Personal Loan (via digital lending platform),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,1,0,,,,,,,,
+profile_009,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_009,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_009,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_009,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_009,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_009,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,6,0,1,,,,,,,,
+profile_009,indusind,IndusInd Bank,IndusInd Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_009,yes_bank,YES BANK,YES BANK Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_009,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_009,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,5,0,1,,,,,,,,
+profile_009,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_009,canara_bank,Canara Bank,Canara Budget (Prime / Delight),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,2,0,1,,,,,,,,
+profile_009,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,5,0,1,,,,,,,,
+profile_009,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_009,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,870720.5726294891,10.99,,10336.266631234977,10336.266631234977,True,2.0,0.55
+profile_009,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_009,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,887301.6044176228,9.99,,10143.112505591735,10143.112505591735,True,1.0,1.0
+profile_009,smfg_india_credit,SMFG India Credit,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,1,0,1,,,,,,,,
+profile_009,navi,Navi,Personal Loan / Cash Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,3,0,2,,,,,,,,
+profile_009,moneyview,Moneyview,Personal Loan (via digital lending platform),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,3,4,0,1,,,,,,,,
+profile_010,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_010,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_010,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_010,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_010,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_010,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,1,0,,,,,,,,
+profile_010,indusind,IndusInd Bank,IndusInd Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,6,0,1,,,,,,,,
+profile_010,yes_bank,YES BANK,YES BANK Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,807345.0322380753,10.85,21.0,7731.821564903245,9289.708489577168,True,4.0,0.9342
+profile_010,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_010,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,858682.3929810554,10.15,17.5,7630.4042285743135,8734.312082448243,True,3.0,0.9878
+profile_010,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,1,0,,,,,,,,
+profile_010,canara_bank,Canara Bank,Canara Budget (Prime / Delight),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_010,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,688754.9091775991,10.0,30.5,7608.77503042418,10889.214581360005,True,2.0,0.9992
+profile_010,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,5,0,1,,,,,,,,
+profile_010,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,967467.3029216544,10.99,,7752.199973426234,7752.199973426234,True,5.0,0.9234
+profile_010,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_010,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,985890.6715751365,9.99,,7607.334379193802,7607.334379193802,True,1.0,1.0
+profile_010,smfg_india_credit,SMFG India Credit,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,0,0,694328.8427342443,12.5,30.0,7973.999667531314,10801.79813712656,True,6.0,0.8061
+profile_010,navi,Navi,Personal Loan / Cash Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,3,3,0,0,741458.980970543,,26.0,10115.192063872191,10115.192063872191,True,7.0,0.625
+profile_010,moneyview,Moneyview,Personal Loan (via digital lending platform),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,3,4,0,1,,,,,,,,
+profile_011,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_011,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_011,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_011,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_011,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_011,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,6,6,1,0,,,,,,,,
+profile_011,indusind,IndusInd Bank,IndusInd Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_011,yes_bank,YES BANK,YES BANK Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_011,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_011,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,5,0,1,,,,,,,,
+profile_011,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_011,canara_bank,Canara Bank,Canara Budget (Prime / Delight),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,2,0,1,,,,,,,,
+profile_011,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,445073.35076634266,10.0,30.5,11536.231584379164,14042.629128970617,True,2.0,0.9989
+profile_011,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,0,2,,,,,,,,
+profile_011,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,536443.9000703287,10.99,,11650.798898413448,11650.798898413448,True,3.0,0.8888
+profile_011,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_011,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,541825.5635094034,9.99,,11535.07774627458,11535.07774627458,True,1.0,1.0
+profile_011,smfg_india_credit,SMFG India Credit,Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,1,0,,,,,,,,
+profile_011,navi,Navi,Personal Loan / Cash Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_011,moneyview,Moneyview,Personal Loan (via digital lending platform),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,391120.6027051028,14.0,45.0,12003.22081709699,15979.72583590125,True,4.0,0.55
+profile_012,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_012,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_012,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_012,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_012,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_012,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,6,6,1,0,,,,,,,,
+profile_012,indusind,IndusInd Bank,IndusInd Bank Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,2,2,,,,,,,,
+profile_012,yes_bank,YES BANK,YES BANK Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,7,0,2,,,,,,,,
+profile_012,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,1,2,,,,,,,,
+profile_012,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,5,1,1,,,,,,,,
+profile_012,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,1,1,,,,,,,,
+profile_012,canara_bank,Canara Bank,Canara Budget (Prime / Delight),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,2,0,1,,,,,,,,
+profile_012,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,1,0,,,,,,,,
+profile_012,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,7,1,2,,,,,,,,
+profile_012,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,1,0,,,,,,,,
+profile_012,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_012,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,4707627.024351625,9.99,,169936.99710316,169936.99710316,False,1.0,0.55
+profile_012,smfg_india_credit,SMFG India Credit,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,0,0,3000000.0,12.5,30.0,179983.50580332585,258827.16720047433,False,2.0,0.2711
+profile_012,navi,Navi,Personal Loan / Cash Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_012,moneyview,Moneyview,Personal Loan (via digital lending platform),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,1000000.0,14.0,45.0,186146.00679510107,337013.57861039107,False,3.0,0.1
+profile_013,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_013,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_013,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_013,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_013,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_013,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,1,0,,,,,,,,
+profile_013,indusind,IndusInd Bank,IndusInd Bank Personal Loan,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,6,1,1,,,,,,,,
+profile_013,yes_bank,YES BANK,YES BANK Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,331784.41032253107,10.85,21.0,6533.545662186034,7535.013467238333,True,4.0,0.9338
+profile_013,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_013,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,348169.379372515,10.15,17.5,6467.53143540586,7180.413178509843,True,3.0,0.9877
+profile_013,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,2,0,,,,,,,,
+profile_013,canara_bank,Canara Bank,Canara Budget (Prime / Delight),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_013,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,292562.592846437,10.0,30.5,6453.437438767515,8545.1799414159,True,2.0,0.9992
+profile_013,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,5,0,1,,,,,,,,
+profile_013,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,381866.16342945874,10.99,,6546.796337093689,6546.796337093689,True,5.0,0.923
+profile_013,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_013,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,387446.81668632134,9.99,,6452.498490970984,6452.498490970984,True,1.0,1.0
+profile_013,smfg_india_credit,SMFG India Credit,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,0,0,294453.13834942644,12.5,30.0,6690.725115343267,8490.315348696537,True,6.0,0.8055
+profile_013,navi,Navi,Personal Loan / Cash Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,3,3,0,0,310245.9041452684,,26.0,8058.124109285288,8058.124109285288,True,7.0,0.625
+profile_013,moneyview,Moneyview,Personal Loan (via digital lending platform),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,3,4,0,1,,,,,,,,
+profile_014,hdfc_bank,HDFC Bank,HDFC Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_014,icici_bank,ICICI Bank,ICICI Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_014,sbi,State Bank of India (SBI),SBI Personal Loan (Xpress Credit),REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_014,axis_bank,Axis Bank,Axis Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_014,kotak_mahindra_bank,Kotak Mahindra Bank,Kotak Mahindra Bank Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_014,idfc_first,IDFC FIRST Bank,IDFC FIRST Bank Personal Loan (FIRSTmoney),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,6,6,0,0,492928.73448243836,9.99,20.0,12678.890631989667,15215.181171929034,False,8.0,0.55
+profile_014,indusind,IndusInd Bank,IndusInd Bank Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,0,0,500000.0,10.49,,12799.275309626546,12799.275309626546,True,4.0,0.9114
+profile_014,yes_bank,YES BANK,YES BANK Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,0,0,484407.01934284513,10.85,21.0,12886.369274838742,15482.84748262861,False,10.0,0.3972
+profile_014,federal_bank,Federal Bank,Federal Bank Personal Loan (FedPremia),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,1,0,,,,,,,,
+profile_014,bank_of_baroda,Bank of Baroda,Baroda Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,515209.43578863324,10.15,17.5,12717.34038095719,14557.186804080402,True,2.0,0.9717
+profile_014,pnb,Punjab National Bank,PNB Personal Loan Scheme for Public / for Self-Employed,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,3,3,0,0,579282.259699983,10.35,11.1,12765.499665465684,12947.056248337965,True,3.0,0.9362
+profile_014,canara_bank,Canara Bank,Canara Budget (Prime / Delight),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,5000000.0,,,,,True,7.0,0.775
+profile_014,bajaj_finance,Bajaj Finance,Bajaj Finance Personal Loan (Term / Flexi Dropline / Flexi Hybrid),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,5,5,0,0,413252.9455065595,10.0,30.5,12681.291717373631,18148.690968933348,False,9.0,0.5482
+profile_014,tata_capital,Tata Capital,Tata Capital Personal Loan (Instant Personal Loan),GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,7,7,0,0,580480.3817529927,10.99,,12920.33328904372,12920.33328904372,True,5.0,0.8222
+profile_014,aditya_birla_finance,Aditya Birla Capital (Aditya Birla Finance),Aditya Birla Capital Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,0,0,580480.3817529927,10.99,,12920.33328904372,12920.33328904372,True,6.0,0.8222
+profile_014,lnt_finance,L&T Finance,Personal Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,0,0,0,0,,,,,,,,
+profile_014,poonawalla_fincorp,Poonawalla Fincorp,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,2,0,0,591534.4029450819,9.99,,12678.890631989667,12678.890631989667,True,1.0,1.0
+profile_014,smfg_india_credit,SMFG India Credit,Personal Loan,GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,1,1,0,0,416597.3056405466,12.5,30.0,13289.999445885524,18002.99689521093,False,11.0,0.1
+profile_014,navi,Navi,Personal Loan / Cash Loan,REVIEW_REQUIRED,ELIGIBLE_UNDER_DOCUMENTED_RULES,2,3,0,1,,,,,,,,
+profile_014,moneyview,Moneyview,Personal Loan (via digital lending platform),NO_GO,ELIGIBLE_UNDER_DOCUMENTED_RULES,4,4,1,0,,,,,,,,
