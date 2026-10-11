@@ -1,0 +1,11 @@
+# Core runtime
+streamlit>=1.40,<2
+pandas>=2.2,<3
+pydantic>=2.7,<3
+
+# Testing
+pytest>=8.0,<9
+
+# Optional: only needed if you want a JSON API in addition to the CLI/UI.
+# fastapi>=0.110
+# uvicorn>=0.29
