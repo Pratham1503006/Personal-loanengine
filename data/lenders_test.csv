@@ -1,0 +1,2 @@
+lender_id,lender_name,lender_type,regulated_entity_name,product_name,official_product_url,product_status,selection_rationale,last_verified_date,research_status,notes
+hdfc_bank,HDFC Bank Limited,bank,HDFC Bank Limited,HDFC Bank Personal Loan,https://www.hdfc.bank.in/personal-loan,verified_active,market leading,2026-10-11,researched,
