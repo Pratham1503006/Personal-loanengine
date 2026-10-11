@@ -1,0 +1,218 @@
+[
+  {
+    "profile_id": "profile_001",
+    "synthetic": true,
+    "provenance": "strong_salaried_baseline",
+    "profile": {
+      "applicant_age_years": 32,
+      "employment_type": "salaried",
+      "customer_segment": "new_customer",
+      "monthly_net_income_inr": 60000,
+      "total_work_experience_months": 96,
+      "current_job_tenure_months": 36,
+      "cibil_score": 775,
+      "requested_loan_amount_inr": 800000,
+      "requested_tenure_months": 48,
+      "existing_monthly_emi_inr": 0,
+      "other_monthly_debt_obligations_inr": 0
+    }
+  },
+  {
+    "profile_id": "profile_002",
+    "synthetic": true,
+    "provenance": "low_income_but_qualifying",
+    "profile": {
+      "applicant_age_years": 28,
+      "employment_type": "salaried",
+      "customer_segment": "new_customer",
+      "monthly_net_income_inr": 25000,
+      "total_work_experience_months": 60,
+      "current_job_tenure_months": 24,
+      "cibil_score": 725,
+      "requested_loan_amount_inr": 400000,
+      "requested_tenure_months": 48
+    }
+  },
+  {
+    "profile_id": "profile_003",
+    "synthetic": true,
+    "provenance": "low_cibil_score",
+    "profile": {
+      "applicant_age_years": 30,
+      "employment_type": "salaried",
+      "customer_segment": "new_customer",
+      "monthly_net_income_inr": 50000,
+      "total_work_experience_months": 72,
+      "current_job_tenure_months": 24,
+      "cibil_score": 620,
+      "requested_loan_amount_inr": 500000,
+      "requested_tenure_months": 36
+    }
+  },
+  {
+    "profile_id": "profile_004",
+    "synthetic": true,
+    "provenance": "high_existing_emi_no_capacity",
+    "profile": {
+      "applicant_age_years": 35,
+      "employment_type": "salaried",
+      "customer_segment": "new_customer",
+      "monthly_net_income_inr": 40000,
+      "existing_monthly_emi_inr": 35000,
+      "other_monthly_debt_obligations_inr": 1000,
+      "cibil_score": 750,
+      "requested_loan_amount_inr": 300000,
+      "requested_tenure_months": 36
+    }
+  },
+  {
+    "profile_id": "profile_005",
+    "synthetic": true,
+    "provenance": "recent_new_job_short_tenure",
+    "profile": {
+      "applicant_age_years": 26,
+      "employment_type": "salaried",
+      "customer_segment": "new_customer",
+      "monthly_net_income_inr": 35000,
+      "total_work_experience_months": 36,
+      "current_job_tenure_months": 6,
+      "cibil_score": 750,
+      "requested_loan_amount_inr": 300000,
+      "requested_tenure_months": 48
+    }
+  },
+  {
+    "profile_id": "profile_006",
+    "synthetic": true,
+    "provenance": "self_employed_stable",
+    "profile": {
+      "applicant_age_years": 38,
+      "employment_type": "self_employed",
+      "customer_segment": "new_customer",
+      "annual_itr_income_inr": 900000,
+      "business_vintage_months": 60,
+      "monthly_net_income_inr": null,
+      "cibil_score": 760,
+      "requested_loan_amount_inr": 700000,
+      "requested_tenure_months": 60
+    }
+  },
+  {
+    "profile_id": "profile_007",
+    "synthetic": true,
+    "provenance": "below_min_age",
+    "profile": {
+      "applicant_age_years": 17,
+      "employment_type": "salaried",
+      "customer_segment": "new_customer",
+      "monthly_net_income_inr": 30000,
+      "cibil_score": 750,
+      "requested_loan_amount_inr": 200000,
+      "requested_tenure_months": 36
+    }
+  },
+  {
+    "profile_id": "profile_008",
+    "synthetic": true,
+    "provenance": "near_age_limit",
+    "profile": {
+      "applicant_age_years": 59,
+      "employment_type": "salaried",
+      "customer_segment": "new_customer",
+      "monthly_net_income_inr": 80000,
+      "cibil_score": 780,
+      "requested_loan_amount_inr": 1000000,
+      "requested_tenure_months": 12
+    }
+  },
+  {
+    "profile_id": "profile_009",
+    "synthetic": true,
+    "provenance": "missing_cibil_score",
+    "profile": {
+      "applicant_age_years": 31,
+      "employment_type": "salaried",
+      "customer_segment": "new_customer",
+      "monthly_net_income_inr": 45000,
+      "requested_loan_amount_inr": 400000,
+      "requested_tenure_months": 48,
+      "cibil_score": null
+    }
+  },
+  {
+    "profile_id": "profile_010",
+    "synthetic": true,
+    "provenance": "self_employed_short_vintage",
+    "profile": {
+      "applicant_age_years": 30,
+      "employment_type": "self_employed",
+      "customer_segment": "new_customer",
+      "annual_itr_income_inr": 600000,
+      "business_vintage_months": 18,
+      "cibil_score": 740,
+      "requested_loan_amount_inr": 300000,
+      "requested_tenure_months": 48
+    }
+  },
+  {
+    "profile_id": "profile_011",
+    "synthetic": true,
+    "provenance": "recent_delinquencies",
+    "profile": {
+      "applicant_age_years": 29,
+      "employment_type": "salaried",
+      "customer_segment": "new_customer",
+      "monthly_net_income_inr": 50000,
+      "cibil_score": 650,
+      "days_past_due_max": 30,
+      "written_off_accounts_count": 1,
+      "requested_loan_amount_inr": 250000,
+      "requested_tenure_months": 24
+    }
+  },
+  {
+    "profile_id": "profile_012",
+    "synthetic": true,
+    "provenance": "above_product_max",
+    "profile": {
+      "applicant_age_years": 40,
+      "employment_type": "salaried",
+      "customer_segment": "new_customer",
+      "monthly_net_income_inr": 200000,
+      "cibil_score": 820,
+      "requested_loan_amount_inr": 8000000,
+      "requested_tenure_months": 60
+    }
+  },
+  {
+    "profile_id": "profile_013",
+    "synthetic": true,
+    "provenance": "self_employed_low_income",
+    "profile": {
+      "applicant_age_years": 36,
+      "employment_type": "self_employed",
+      "customer_segment": "new_customer",
+      "annual_itr_income_inr": 300000,
+      "business_vintage_months": 36,
+      "cibil_score": 720,
+      "requested_loan_amount_inr": 200000,
+      "requested_tenure_months": 36
+    }
+  },
+  {
+    "profile_id": "profile_014",
+    "synthetic": true,
+    "provenance": "borderline_case",
+    "profile": {
+      "applicant_age_years": 58,
+      "employment_type": "salaried",
+      "customer_segment": "new_customer",
+      "monthly_net_income_inr": 30000,
+      "total_work_experience_months": 300,
+      "current_job_tenure_months": 120,
+      "cibil_score": 725,
+      "requested_loan_amount_inr": 500000,
+      "requested_tenure_months": 48
+    }
+  }
+]
